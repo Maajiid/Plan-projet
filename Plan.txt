@@ -1,0 +1,52 @@
+Intro :
+Les enjeux du jeu: c quoi un jeu t par t: action, histoire, combat
+difficile: debug, bcp scenarios, 
+api openai/ bard api :  dialogue, plusieurs scenarios , diversité
+decoupage du travail avant/apres :
+- 1prs sur l'api de l'ia 
+- 1 prs sur le cmbat
+- 1 prs qui les met en lien
+
+Mais api ne marche pas donc:
+APRES:
+- 1 prs sur l histoire
+- 1 prs sur combat 
+- 1 prs qui met en lien
+
+annonce  du plan 
+
+
+(posé des question rhe)
+
+
+parti 1:
+Monis:
+algorithme(intro histoire, choix psg, intro prt1, combat1, ...) 5 parties car 5 zones, 
+presentation d une partie 
+	--> utilisation time 
+	--> utilisation de listes(pourquoi)
+	--> comment print (déffilement) --> fonction
+presentation d une 2e partie (expliquer que c est la meme chose)
+
+Partie 2: 
+random
+methode --> self
+class 
+inspiration --> for the king
+actions , passif, consommable, 
+
+
+
+Partie 3: 
+Majid:
+expliquer les arguments des fonctions:
+	-->les plus importante (zone(=stat montsre), ..)
+recompense des tresor --> consommables/ mimmic (monstre connu) photo poue exemple
+si le psg meurt, fin du jeu 
+
+Conclusion 
+ce que la creation nous a apporter (class , methode, utilisation de: liste, dict, ...)
+Projet utile pour consolider nos base en python (html)
+
+
+ 
